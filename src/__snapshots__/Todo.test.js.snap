@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="todo-wrapper"
+  >
+    <div
+      class="todo"
+    />
+    <button
+      class="delete-todo-button"
+    >
+      X
+    </button>
+  </div>
+</DocumentFragment>
+`;
